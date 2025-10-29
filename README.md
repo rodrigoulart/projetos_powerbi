@@ -9,7 +9,7 @@ Inclui dashboards de vendas e outras análises que aplicam conceitos de modelage
 projetos_powerbi  
 ├── 01-projeto_analise_dashboard_vendas/  
 │   ├── relatorio_vendas.pbix      # Relatório no com extensão padrão do Microsoft Power BI
-│   ├── relatorio_vendas.pptx      # Relatório no com extensão padrão do Microsoft Power Point
+│   └── relatorio_vendas.pptx      # Relatório no com extensão padrão do Microsoft Power Point
 │
 └── README.md
 ```
