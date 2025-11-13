@@ -10,6 +10,9 @@ projetos_powerbi
 ├── 01-projeto_analise_dashboard_vendas/  
 │   ├── relatorio_vendas.pbix      # Relatório no com extensão padrão do Microsoft Power BI
 │   └── relatorio_vendas.pptx      # Relatório no com extensão padrão do Microsoft Power Point
+├── 02-projeto_relatorio_gerencial_vendas/  
+│   ├── relatorio_gerencial.pbix      # Relatório no com extensão padrão do Microsoft Power BI
+│   └── relatorio_gerencial.pptx      # Relatório no com extensão padrão do Microsoft Power Point
 │
 └── README.md
 ```
@@ -38,7 +41,29 @@ Dashboard desenvolvido a partir do dataset disponibilizado pela [Tech education 
 
 *Para detalhes, arquivos e instruções, acesse a subpasta `01-projeto_analise_dashboard_vendas`.*
 
----
+
+### 2. Criando um Relatório Gerencial de Vendas com Power BI
+
+Relatório desenvolvido com base na amostra **“Financials”** do Power BI, proposto no desafio da Tech Education Specialist no Github
+.
+O objetivo foi construir um dashboard gerencial mais elaborado, aplicando conceitos de modelagem, design e interatividade avançada no Power BI.
+
+Principais implementações:
+
+Estruturação do relatório com layout organizado e navegabilidade aprimorada
+
+Botões de navegação e segmentadores personalizados, incluindo imagens e indicadores
+
+Página inicial com visuais de desempenho e filtros interativos
+
+Página secundária detalhando métricas de vendas, lucro e unidades vendidas
+
+Utilização de DAX para criação de medidas e indicadores gerenciais
+
+Publicação no Power BI Service e exportação para PowerPoint para apresentações executivas
+
+Para detalhes, arquivos e instruções, acesse a subpasta 02-projeto_relatorio_gerencial_vendas.
+
 
 ## Créditos
 
