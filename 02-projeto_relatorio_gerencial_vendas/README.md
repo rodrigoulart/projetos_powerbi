@@ -13,5 +13,5 @@ O objetivo foi desenvolver um dashboard com métricas avançadas de vendas, lucr
 - Publicação no Power BI Service e exportação para PowerPoint.
 
 ## Arquivos
-- `relatorio_gerencial.pbix` → Relatório interativo no Power BI  
-- `relatorio_gerencial.pptx` → Exportação do relatório para PowerPoint
+- `relatorio_gerencial.pbix` - Relatório interativo no Power BI  
+- `relatorio_gerencial.pptx` - Exportação do relatório para PowerPoint
