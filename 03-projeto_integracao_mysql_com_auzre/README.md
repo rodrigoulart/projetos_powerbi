@@ -48,9 +48,9 @@ O **atribuir** (ou “append”) não é adequado aqui porque ele **concatena li
 
 ## Arquivos
 
-- `desafio_de_projeto_instrucoes.docx`- Intruções do desafio proposto.
-- `etl_sql_com_azure.pbix` - Relatório do Power Bi, com aplicação de ETL e modificações propostas no desafio.
-- `insercao_de_dados_orinal.sql` - script sql, para inserção de dados, fornecido pela [Tech education Specialist no Github](https://github.com/julianazanelatto/power_bi_analyst).
-- `script_bd_original.sql` - script sql, para criação da base de dados, fornecido pela [Tech education Specialist no Github](https://github.com/julianazanelatto/power_bi_analyst).
+- `desafio_de_projeto_instrucoes.docx`- Intruções do desafio proposto
+- `etl_sql_com_azure.pbix` - Relatório do Power Bi, com aplicação de ETL e modificações propostas no desafio
+- `insercao_de_dados_orinal.sql` - script sql, para inserção de dados, fornecido pela [Tech education Specialist no Github](https://github.com/julianazanelatto/power_bi_analyst)
+- `script_bd_original.sql` - script sql, para criação da base de dados, fornecido pela [Tech education Specialist no Github](https://github.com/julianazanelatto/power_bi_analyst)
 
 
