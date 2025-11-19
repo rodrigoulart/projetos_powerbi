@@ -1,8 +1,8 @@
-# Projeto 03 – Integração MySQL Azure e Transformação com Power BI
+# Projeto 03 – Integração entre MySQL Microsoft Azure e Transformação com Power BI
 
 ## Descrição
 
-Projeto de integração de dados com MySQL na Azure, transformações no Power BI e análise de colaboradores, departamentos e projetos.
+Projeto de integração de dados com MySQL na Microsot Azure, transformações no Power BI e análise de colaboradores, departamentos e projetos.
 
 ## Etapas do Projeto
 
