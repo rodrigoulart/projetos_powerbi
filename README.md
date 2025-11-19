@@ -6,14 +6,21 @@ Inclui dashboards de vendas e outras análises que aplicam conceitos de modelage
 ## Estrutura do Repositório
 
 ```
-projetos_powerbi  
-├── 01-projeto_analise_dashboard_vendas/  
-│   ├── relatorio_vendas.pbix      # Relatório no com extensão padrão do Microsoft Power BI
-│   └── relatorio_vendas.pptx      # Relatório no com extensão padrão do Microsoft Power Point
-├── 02-projeto_relatorio_gerencial_vendas/  
-│   ├── relatorio_gerencial.pbix      # Relatório no com extensão padrão do Microsoft Power BI
-│   └── relatorio_gerencial.pptx      # Relatório no com extensão padrão do Microsoft Power Point
-│
+projetos_powerbi/
+├── 01-projeto_analise_dashboard_vendas/
+│ ├── README.md
+│ ├── relatorio_vendas.pbix
+│ └── relatorio_vendas.pptx
+├── 02-projeto_relatorio_gerencial_vendas/
+│ ├── README.md
+│ ├── relatorio_gerencial.pbix
+│ └── relatorio_gerencial.pptx
+├── 03-projeto_integracao_mysql_com_azure/
+│ ├── README.md
+│ ├── desafio_de_projeto_instrucoes.docx
+│ ├── etl_sql_com_azure.pbix
+│ ├── insercao_de_dados_orinal.sql
+│ └── script_bd_original.sql
 └── README.md
 ```
 
@@ -27,41 +34,19 @@ projetos_powerbi
 
 ## Descrição dos Projetos
 
-### 1. Analisando dados de um Dashboard de Vendas no Power BI
+### [01 – Analisando dados de um Dashboard de Vendas no Power BI](./01-projeto_analise_dashboard_vendas/) 
+Relatório desenvolvido a partir de dataset disponibilizado no GitHub, replicando dashboards do curso e criando página própria com mapas, gráficos e tooltips.
 
-Relatório desenvolvido a partir do dataset disponibilizado pela [Tech education Specialist no Github](https://github.com/julianazanelatto/power_bi_analyst).
+### [02 – Criando Um Relatório Gerencial de Vendas com Power BI](./02-projeto_relatorio_gerencial_vendas/) 
+Dashboard gerencial mais elaborado, com segmentadores interativos, páginas de desempenho, métricas de vendas e indicadores calculados em DAX.
 
-O objetivo foi construir um relatório a partir de um modelo pronto apresentado.
+### [03 – Criando um Dashboard corporativo com MySQL e Azure](./03-projeto_integracao_mysql_com_azure/)  
+Projeto de integração de dados com MySQL Azure, transformações e modelagem de dados no Power BI, incluindo mesclas, tratamento de nulos e contagem de colaboradores por gerente.
 
-Principais implementações:
+## Créditos
+Desafio proposto pela **Digital Innovation One (DIO)** em parceria com a **Klabin**.  
+Desenvolvido por **Rodrigo Moraes**.
 
-- Replicação das páginas de dashboards do curso
-- Criação de página própria com:
-- Visual de mapa: Soma de vendas (**sales**) e unidades vendidas por país
-- Visual de mapa: Soma de lucro (**profit**) por país
-- Gráfico de pizza: Lucro por segmento
-- Organização e renomeação dos visuais para melhor interpretação
-- Configuração de tooltips relevantes
-- Publicação do relatório e exportação para Power Point
-
-*Para detalhes, arquivos e instruções, acesse a subpasta `01-projeto_analise_dashboard_vendas`.*
-
-
-### 2. Criando um Relatório Gerencial de Vendas com Power BI
-
-Relatório desenvolvido com base na amostra **“Financials”** do Power BI, proposto pela [Tech education Specialist no Github](https://github.com/julianazanelatto/power_bi_analyst).
-
-O objetivo foi construir um dashboard gerencial mais elaborado, aplicando conceitos de modelagem, design e interatividade avançada no Power BI.
-
-- Principais implementações:
-- Estruturação do relatório com layout organizado e navegabilidade aprimorada
-- Botões de navegação e segmentadores personalizados, incluindo imagens e indicadores
-- Página inicial com visuais de desempenho e filtros interativos
-- Página secundária detalhando métricas de vendas, lucro e unidades vendidas
-- Utilização de DAX para criação de medidas e indicadores gerenciais
-- Publicação no Power BI Service e exportação para PowerPoint para apresentações executivas
-- 
-*Para detalhes, arquivos e instruções, acesse a subpasta `02-projeto_relatorio_gerencial_vendas`.*
 
 
 ## Créditos
