@@ -10,3 +10,7 @@ O objetivo foi construir um relatório de vendas replicando o modelo apresentado
 - Organização e renomeação de visuais para melhor interpretação.  
 - Configuração de tooltips e filtros interativos.  
 - Publicação do relatório no Power BI e exportação para PowerPoint.
+
+## Arquivos
+- `relatorio_vendas.pbix` → Relatório interativo no Power BI  
+- `relatorio_vendas.pptx` → Exportação do relatório para PowerPoint
