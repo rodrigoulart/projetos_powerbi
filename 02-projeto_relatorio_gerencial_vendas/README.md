@@ -11,3 +11,7 @@ O objetivo foi desenvolver um dashboard com métricas avançadas de vendas, lucr
 - Página detalhando métricas de vendas, lucro e unidades vendidas.  
 - Criação de medidas DAX para análise gerencial.  
 - Publicação no Power BI Service e exportação para PowerPoint.
+
+## Arquivos
+- `relatorio_gerencial.pbix` → Relatório interativo no Power BI  
+- `relatorio_gerencial.pptx` → Exportação do relatório para PowerPoint
