@@ -19,7 +19,7 @@ projetos_powerbi/
 │ ├── README.md
 │ ├── desafio_de_projeto_instrucoes.docx
 │ ├── etl_sql_com_azure.pbix
-│ ├── insercao_de_dados_orinal.sql
+│ ├── insercao_de_dados_original.sql
 │ └── script_bd_original.sql
 └── README.md
 ```
