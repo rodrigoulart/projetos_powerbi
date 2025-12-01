@@ -22,6 +22,12 @@ projetos_powerbi/
 │ ├── insercao_de_dados_original.sql
 │ └── script_bd_original.sql
 └── README.md
+├── 04-projeto_star_schema_mysql/
+│ ├── README.md
+│ ├── eer_star_schema.png
+│ ├── etl_sql_com_azure.pbix
+│ └── powerbi_star_schema.pbix
+└── README.md
 ```
 
 ## Tecnologias Utilizadas
@@ -31,6 +37,7 @@ projetos_powerbi/
 - DAX: cálculos e medidas para criação de indicadores
 - Power Query: transformação de dados
 - Github: versionamento e compartilhamento dos projetos
+- MySQL: Criação das bases de Dados e Diagramas
 
 ## Descrição dos Projetos
 
@@ -42,6 +49,9 @@ Dashboard gerencial mais elaborado, com segmentadores interativos, páginas de d
 
 ### [03 – Criando um Dashboard corporativo com MySQL e Azure](./03-projeto_integracao_mysql_com_azure/)  
 Projeto de integração de dados com MySQL Azure, transformações e modelagem de dados no Power BI, incluindo mesclas, tratamento de nulos e contagem de colaboradores por gerente.
+
+### [04 – Dashboard de Vendas com Power BI utilizando Star Schema](./04-projeto_star_schema_mysql/)  
+Projeto de modelagem dimensional com MySQL, criação de Star Schema, integração com Power BI e análise de professores, cursos e departamentos.
 
 ## Créditos
 Desafio proposto pela **Digital Innovation One (DIO)** em parceria com a **Klabin**.  
