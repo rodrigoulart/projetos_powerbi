@@ -21,12 +21,15 @@ projetos_powerbi/
 │ ├── etl_sql_com_azure.pbix
 │ ├── insercao_de_dados_original.sql
 │ └── script_bd_original.sql
-└── README.md
 ├── 04-projeto_star_schema_mysql/
 │ ├── README.md
 │ ├── eer_star_schema.png
 │ ├── etl_sql_com_azure.pbix
 │ └── powerbi_star_schema.pbix
+├── 05-projeto_modelagem_com_dax/
+│ ├── README.md
+│ ├── modelagem_star_schema_com_dax.pbix
+│ └── star_schema_powerbi.PNG
 └── README.md
 ```
 
@@ -52,6 +55,9 @@ Projeto de integração de dados com MySQL Azure, transformações e modelagem d
 
 ### [04 – Dashboard de Vendas com Power BI utilizando Star Schema](./04-projeto_star_schema_mysql/)  
 Projeto de modelagem dimensional com MySQL, criação de Star Schema, integração com Power BI e análise de professores, cursos e departamentos.
+
+### [05 – Dashboard de E-commerce com Power BI utilizando Star Schema](./05-projeto_modelagem_com_dax/)  
+Projeto de modelagem dimensional utilizando a tabela Financial Sample, criação de Star Schema e análise de vendas, produtos, descontos e clientes. Tudo executado diretamente no Power BI Desktop, com auxílio das ferramenta Power Query e DAX.
 
 ## Créditos
 Desafio proposto pela **Digital Innovation One (DIO)** em parceria com a **Klabin**.  
