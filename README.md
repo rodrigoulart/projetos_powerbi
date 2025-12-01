@@ -50,7 +50,7 @@ Dashboard gerencial mais elaborado, com segmentadores interativos, páginas de d
 ### [03 – Criando um Dashboard corporativo com MySQL e Azure](./03-projeto_integracao_mysql_com_azure/)  
 Projeto de integração de dados com MySQL Azure, transformações e modelagem de dados no Power BI, incluindo mesclas, tratamento de nulos e contagem de colaboradores por gerente.
 
-### [Projeto 04 – Dashboard de Vendas com Power BI utilizando Star Schema](./04-projeto_star_schema_mysql/)  
+### [04 – Dashboard de Vendas com Power BI utilizando Star Schema](./04-projeto_star_schema_mysql/)  
 Projeto de modelagem dimensional com MySQL, criação de Star Schema, integração com Power BI e análise de professores, cursos e departamentos.
 
 ## Créditos
