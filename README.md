@@ -34,6 +34,10 @@ projetos_powerbi/
 │ ├── README.md
 │ ├── relatorio_gerencial_modificado.pbix
 │ └── relatorio_gerencial_modificado.pptx
+├── 07-projeto_relatorio_vendas_modificado/
+│ ├── README.md
+│ ├── relatorio_vendas_modificado.pbix
+│ └── relatorio_vendas_modificado.pptx
 └── README.md
 ```
 
@@ -65,6 +69,10 @@ Projeto de modelagem dimensional utilizando a tabela Financial Sample, criação
 
 ### [06 – Criando um Dashboard Gerencial para Tomada de Decisões com Power BI](./06-projeto_relatorio_gerencial_modificado/)  
 Projeto de atualização de um relatório financeiro com foco na experiência do usuário, aplicando conceitos de posicionamento, contraste, proporção áurea e segmentação dos dados.
+Todo o trabalho foi realizado diretamente no Power BI Desktop, aprimorando visuais, organização e navegação.
+
+### [07 – Criando um Relatório de Vendas e Lucros com Data Analytics no Power BI](./07-projeto_relatorio_vendas_modificado/)  
+Projeto de atualização de um relatório de vendas e lucros com foco na experiência do usuário, aplicando conceitos de posicionamento, contraste, proporção áurea e segmentação dos dados.
 Todo o trabalho foi realizado diretamente no Power BI Desktop, aprimorando visuais, organização e navegação.
 
 ## Créditos
