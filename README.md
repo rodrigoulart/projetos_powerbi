@@ -30,6 +30,10 @@ projetos_powerbi/
 │ ├── README.md
 │ ├── modelagem_star_schema_com_dax.pbix
 │ └── star_schema_powerbi.PNG
+├── 06-projeto_relatorio_gerencial_modificado/
+│ ├── README.md
+│ ├── relatorio_gerencial_modificado.pbix
+│ └── relatorio_gerencial_modificado.pptx
 └── README.md
 ```
 
@@ -58,6 +62,10 @@ Projeto de modelagem dimensional com MySQL, criação de Star Schema, integraç�
 
 ### [05 – Dashboard de E-commerce com Power BI utilizando Star Schema](./05-projeto_modelagem_com_dax/)  
 Projeto de modelagem dimensional utilizando a tabela Financial Sample, criação de Star Schema e análise de vendas, produtos, descontos e clientes. Tudo executado diretamente no Power BI Desktop, com auxílio das ferramenta Power Query e DAX.
+
+### [06 – Criando um Dashboard Gerencial para Tomada de Decisões com Power BI](./06-projeto_relatorio_gerencial_modificado/)  
+Projeto de atualização de um relatório financeiro com foco na experiência do usuário, aplicando conceitos de posicionamento, contraste, proporção áurea e segmentação dos dados.
+Todo o trabalho foi realizado diretamente no Power BI Desktop, aprimorando visuais, organização e navegação.
 
 ## Créditos
 Desafio proposto pela **Digital Innovation One (DIO)** em parceria com a **Klabin**.  
