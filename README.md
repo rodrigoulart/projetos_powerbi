@@ -76,12 +76,6 @@ Projeto de atualização de um relatório de vendas e lucros com foco na experi�
 Todo o trabalho foi realizado diretamente no Power BI Desktop, aprimorando visuais, organização e navegação.
 
 ## Créditos
-Desafio proposto pela **Digital Innovation One (DIO)** em parceria com a **Klabin**.  
-Desenvolvido por **Rodrigo Moraes**.
-
-
-
-## Créditos
 
 Desafio proposto pela **[Digital Innovation One (DIO)](https://www.dio.me/)** em parceria com a **Klabin**.  
 Projeto desenvolvido por **Rodrigo Moraes**.
