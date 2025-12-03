@@ -38,6 +38,10 @@ projetos_powerbi/
 │ ├── README.md
 │ ├── relatorio_vendas_modificado.pbix
 │ └── relatorio_vendas_modificado.pptx
+├── 08-projeto_relatorio_vendas_modificado/
+│ ├── README.md
+│ ├── relatorio_com _parametros.pbix
+│ └── relatorio_com _parametros.pptx
 └── README.md
 ```
 
@@ -74,6 +78,9 @@ Todo o trabalho foi realizado diretamente no Power BI Desktop, aprimorando visua
 ### [07 – Criando um Relatório de Vendas e Lucros com Data Analytics no Power BI](./07-projeto_relatorio_vendas_modificado/)  
 Projeto de atualização de um relatório de vendas e lucros com foco na experiência do usuário, aplicando conceitos de posicionamento, contraste, proporção áurea e segmentação dos dados.
 Todo o trabalho foi realizado diretamente no Power BI Desktop, aprimorando visuais, organização e navegação.
+
+### [08 –Criando Relatórios Dinâmicos com o Uso de Parâmetros no Power BI](./08-projeto_relatorio_com_parametros/)  
+Projeto de atualização de um relatório de vendas e lucros com foco na experiência do usuário, aplicando conceitos de posicionamento, contraste, proporção áurea e segmentação dos dados.
 
 ## Créditos
 
